@@ -2,4 +2,4 @@
 
 ### A data driven argument for which neighborhood is the best for summer fun in pittsburgh. 
 
-- Peter Ford (pmf32@pitt.edu): Playgrounds https://data.wprdc.org/dataset/playgrounds
+- Peter Ford (pmf32@pitt.edu): Playgrounds dataset https://data.wprdc.org/dataset/playgrounds
