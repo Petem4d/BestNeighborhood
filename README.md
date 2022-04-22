@@ -4,3 +4,4 @@
 
 - Peter Ford (pmf32@pitt.edu): Playgrounds dataset https://data.wprdc.org/dataset/playgrounds
 - Nolan Grace (nog20@pitt.edu): Courts And Rinks dataset https://data.wprdc.org/dataset/city-of-pittsburgh-courts
+- Gabriel Schmidt (gos21@pitt.edu): Parks dataset https://data.wprdc.org/dataset/parks 
